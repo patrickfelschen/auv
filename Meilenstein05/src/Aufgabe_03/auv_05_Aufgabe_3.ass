@@ -1,0 +1,18 @@
+[Script Info]
+; created by Patrick Felschen, Julian Voss
+; Lecture: Audio und Videotechnik
+PlayResX: 2268
+PlayResY: 1512
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour
+Style: Default,Arial,50,16777215
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,Block 1,0200,0000,0756,,1 Umdrehung/s
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,Block 2,1000,0000,0756,,langsam vor
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,Block 3,1756,0000,0756,,schnell vor
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,Block 4,0300,0000,0000,,Stillstand
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,Block 5,1000,0000,0000,,langsam zurück
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,Block 6,1756,0000,0000,,schnell zurück
